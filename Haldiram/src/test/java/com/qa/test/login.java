@@ -12,7 +12,7 @@ public class login extends BaseClass {
 	public void logintest() throws IOException {
 		BaseClass base=new BaseClass();
 		base.setUp();
-		System.out.print("Loging done ");
+		System.out.print("Login done ");
 	}
 
 }
