@@ -17,7 +17,7 @@ public class CreateAccountTest extends BaseClass {
 	public static Home home;
 	public static CustAccount custAccount;
 	public static CreateAccount createAccount;
-
+/*
 	@BeforeMethod
 	public void beforeMethod(Method m) throws Exception {
 
@@ -45,4 +45,5 @@ public class CreateAccountTest extends BaseClass {
 	public void aftermethod() {
 		tearDown();
 	}
+	*/
 }
